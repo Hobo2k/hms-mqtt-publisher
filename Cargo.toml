@@ -1,5 +1,5 @@
 [package]
-name = "hms-mqtt-publish"
+name = "hobos-hms-mqtt-publish"
 version = "0.2.0"
 edition = "2021"
 
